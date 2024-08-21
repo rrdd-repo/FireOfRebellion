@@ -31,7 +31,7 @@ Another important aspect to be aware of is that your runs are saved in a file na
 
 ## Credits
 
-**Rosa de Souza**
+- **Rosa de Souza**
 
-**Nicolas Gabriel**
+- **Nicolas Gabriel**
 
